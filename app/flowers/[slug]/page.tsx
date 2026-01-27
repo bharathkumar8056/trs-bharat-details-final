@@ -40,8 +40,8 @@ export default async function FlowerDetailPage({ params }: Props) {
               <img src={flower.image} alt={flower.name} className="w-full rounded-lg shadow-lg object-cover mb-4 h-80" />
 
               <div className="bg-white border p-4 rounded shadow-sm space-y-3">
-                <div className="text-sm text-gray-500">FOB Price</div>
-                <div className="text-lg font-semibold text-blue-900">{flower.fobPrice || "US 0.5 $ – 1.5 $"}</div>
+                {/* <div className="text-sm text-gray-500">FOB Price</div>
+                <div className="text-lg font-semibold text-blue-900">{flower.fobPrice || "US 0.5 $ – 1.5 $"}</div> */}
 
                 <div className="grid grid-cols-2 gap-2 pt-3">
                   <div>
