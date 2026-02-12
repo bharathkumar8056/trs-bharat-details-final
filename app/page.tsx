@@ -249,7 +249,7 @@ All our products meet international quality standards and are sourced from certi
       question: "How can I place an order?",
       answer: `To place an order with TRS Bharat Global Solutions:
 
-1. Contact us via email at trs2025bgs@gmail.com or call us at +91 89390 38352
+1. Contact us via email at trs2025bgs@gmail.com or call us at +91 90250 71760, +91 89390 38352
 2. Specify your product requirements, quantity, and delivery location
 3. We'll provide a detailed quotation including pricing and shipping options
 4. Upon agreement, we'll send an official order confirmation
@@ -1545,9 +1545,15 @@ Our team will guide you through each step of the process to ensure a smooth expe
                   <Phone className="text-amber-600 flex-shrink-0" />
                   <div>
                     <p className="font-semibold text-blue-900">Mobile</p>
-                    <a href="tel:+918939038352" className="text-blue-700 hover:text-amber-600">
-                      +91 89390 38352
-                    </a>
+                    <div className="text-blue-700">
+                      <a href="tel:+919025071760" className="hover:text-amber-600">
+                        +91 90250 71760
+                      </a>
+                      {", "}
+                      <a href="tel:+918939038352" className="hover:text-amber-600">
+                        +91 89390 38352
+                      </a>
+                    </div>
                   </div>
                 </div>
 
@@ -1555,8 +1561,8 @@ Our team will guide you through each step of the process to ensure a smooth expe
                   <WhatsApp className="text-amber-600 flex-shrink-0" />
                   <div>
                     <p className="font-semibold text-blue-900">WhatsApp Business</p>
-                    <a href="https://wa.me/918939038352" className="text-blue-700 hover:text-amber-600">
-                      +91 89390 38352
+                    <a href="https://wa.me/919025071760" className="text-blue-700 hover:text-amber-600">
+                      +91 90250 71760
                     </a>
                   </div>
                 </div>
@@ -1686,7 +1692,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
       <div className="fixed bottom-4 right-4 z-50 flex flex-col space-y-3">
         {/* WhatsApp Button */}
         <a
-          href="https://wa.me/918939038352"
+          href="https://wa.me/919025071760"
           target="_blank"
           rel="noopener noreferrer"
           className="rounded-full w-12 h-12 sm:w-14 sm:h-14 bg-green-500 hover:bg-green-600 shadow-lg flex items-center justify-center transition-all duration-300 transform hover:scale-105"
