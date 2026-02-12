@@ -515,8 +515,8 @@ Our team will guide you through each step of the process to ensure a smooth expe
               </h2>
 
               <p className="text-blue-700 text-lg leading-relaxed">
-                At TRS Bharat Global Solutions, we are your trusted partner for premium-quality rice, cashew nuts, and
-                coconut products. We specialize in connecting the richness of Indian agriculture to global markets with
+                At TRS Bharat Global Solutions, we are your trusted partner for premium-quality fresh flowers, rice, coconut, cashew nuts
+                products. We specialize in connecting the richness of Indian agriculture to global markets with
                 a strong focus on quality, consistency, and reliability. Our products are handpicked, processed with
                 care, and meet international food-grade certifications. With hassle-free export services, fast
                 processing, and secure global delivery, we ensure smooth end-to-end logistics for every order. We
@@ -587,7 +587,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
                 <li className="flex items-start space-x-3">
                   <Check className="text-amber-600 mt-1 flex-shrink-0" />
                   <p className="text-blue-700">
-                    To provide the highest quality rice, cashew nuts, and other products sourced from certified farms.
+                    To provide the highest quality fresh flowers, rice, coconut, cashew nuts, and other products sourced from certified farms.
                   </p>
                 </li>
                 <li className="flex items-start space-x-3">
@@ -622,7 +622,7 @@ Our team will guide you through each step of the process to ensure a smooth expe
             <h3 className="text-3xl sm:text-4xl font-bold text-blue-900 mb-4">About TRS Bharat Global Solutions</h3>
             <p className="text-blue-700 text-lg max-w-3xl mx-auto">
               We are a leading exporter of premium agricultural products from India, committed to delivering the highest
-              quality rice, cashew nuts, and coconut products to global markets.
+              quality fresh flowers ,rice, coconut, and cashew nuts products to global markets.
             </p>
           </div>
 
@@ -681,14 +681,20 @@ Our team will guide you through each step of the process to ensure a smooth expe
                 industry.
               </p>
               <p className="text-blue-700 text-lg mb-4">
-                Our journey began with a small team of passionate individuals committed to quality and excellence. Over
-                nearly two decades, we have built strong relationships with farmers and suppliers across India, ensuring
-                that we source only the finest products. Our extensive experience in rice export has given us deep
-                insights into international market requirements and quality standards.
+                Our journey began with a small team of passionate individuals committed to quality and excellence. Over nearly 
+                two decades, we have built strong and lasting relationships with farmers and suppliers across India, ensuring 
+                that we source only the finest rice directly from the fields. This close collaboration allows us to maintain 
+                strict quality control and meet the highest international standards.
+              </p>
+              <p className="text-blue-700 text-lg mb-4">
+               Expanding beyond grains, we now proudly cultivate and export premium flowers grown in our own dedicated gardens,
+               bringing freshness, fragrance, and vibrant quality directly from our farms to global markets.Our extensive 
+               experience in agricultural exports has given us deep insights into international market requirements, packaging 
+               standards, and global trade compliance.              
               </p>
               <p className="text-blue-700 text-lg">
-                Today, we serve clients across multiple continents, providing them with premium rice, cashew nuts, and
-                coconut products that meet international standards. We continue to expand our reach while maintaining
+                Today, we serve clients across multiple continents, providing them with Fresh flowers, rice, coconut, and
+                cashew nuts products that meet international standards. We continue to expand our reach while maintaining
                 our core values of quality, integrity, and sustainability, backed by our 18 years of proven expertise in
                 the field.
               </p>
