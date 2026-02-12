@@ -13,7 +13,7 @@ export default async function FlowerDetailPage({ params }: Props) {
   const flower = flowers.find((f) => f.slug === slug)
   if (!flower) return notFound()
 
-  const whatsappNumber = "918939038352"
+  const whatsappNumber = "919025071760"
   const waMessage = encodeURIComponent(
     `Hello, I am interested in ${flower.name}. Please share a quote.`,
   )
@@ -65,7 +65,7 @@ export default async function FlowerDetailPage({ params }: Props) {
                 <div className="pt-3 space-y-2">
                   <a
                     className="block text-center bg-amber-500 text-white px-4 py-2 rounded hover:bg-amber-600 transition-colors"
-                    href={`https://wa.me/918939038352?text=${waMessage}`}
+                    href={`https://wa.me/919025071760?text=${waMessage}`}
                     target="_blank"
                     rel="noreferrer"
                   >
